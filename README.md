@@ -18,10 +18,6 @@ This project demonstrates clean UI design, interactive functionality, and core f
 * **CSS3** – Styling & layout (Grid, Flexbox)
 * **JavaScript (Vanilla)** – Logic & functionality
 
-📸 Preview
-
-<img width="400" alt="calculator preview" src="https://via.placeholder.com/400x300.png?text=Calculator+Preview">
-
 📦 Deployment
 
 This project is deployed on Vercel for fast and reliable hosting.
